@@ -4,7 +4,7 @@ permalink: /links/
 title: links
 #description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 I spent a considerable amount of aimlessly scolling through academic websites and other interesting tidbits. This page will be a placeholder for my _curated_ links.
