@@ -1,20 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: notes
+title: teaching
 description: 
 nav: true
 nav_order: 5
 ---
+During my PhD, I developed a computational astrophysics lab module. This is used in the Computational Physics lab for third-year undergraduate students at the University of Melbourne, Australia.
 
-While waiting for my PhD thesis comments, I created a computational astrophysics _lab_.
+Over two weeks (six sessions of three hours each), students are introduced to the fundamentals of _N_-body simulations using a model of a Milky Way–sized galaxy. The code includes an option to toggle the gravitational influence of the galaxy’s dark matter halo, allowing students to explore its role in the dynamical stability of galactic systems.
 
-This has been used, quite satisfactorily, for the computational physics lab of the third-year
-undergraduates of the University of Melbourne, Australia.
-
-The students spent 6 days of three hours each over two weeks learning the basics of _N_-body
-simulations with the example of a Milky Way sized galaxy. The code is able to toggling the gravitational
-effects of the Dark Matter halo of the galaxy. The students gain an understanding of the importance of the
-DM for the dynamical stability of system like our Galaxy.
-
-See [here](https://github.com/s-balu/UniMelb_3rdYr_MilkyWay_Nbody) for the associated code and notes. Please get in touch if you want to know more about this!
+The associated code and teaching notes are available [here](https://github.com/s-balu/UniMelb_3rdYr_MilkyWay_Nbody). Please get in touch if you want to know more about this!
