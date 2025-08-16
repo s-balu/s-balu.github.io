@@ -20,3 +20,17 @@ For the dark matter merger trees of the $$\rm{L}10\_\rm{N}2048$$ Genesis box use
 ### Code
 
 Almost all of my codes are available at my [github profile](https://github.com/s-balu). Please feel free to contact me if you have any questions.
+
+<!-- code for GitHub users -->
+<!-- {% if site.data.repositories.github_users %} -->
+<!-- <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center"> -->
+<!--   {% for user in site.data.repositories.github_users %} {% include repository/repo_user.liquid username=user %} {% endfor %} -->
+<!-- </div> -->
+<!-- {% endif %} -->
+<!---->
+<!-- code for GitHub repositories -->
+{% if site.data.repositories.github_repos %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+</div>
+{% endif %}

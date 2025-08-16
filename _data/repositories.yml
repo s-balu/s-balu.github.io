@@ -4,3 +4,7 @@ github_users:
 repo_description_lines_max: 1
 
 github_repos:
+  - s-balu/sim_params
+  - s-balu/.dotfiles
+  - s-balu/Ashvini
+  - s-balu/UniMelb_3rdYr_MilkyWay_Nbody
