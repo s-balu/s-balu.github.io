@@ -5,7 +5,7 @@ permalink: /
 subtitle: Astrophysicist at the <a href="https://www.us.es">University of Seville</a>, Spain #Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circularmore_info
   more_info:
