@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circularmore_info
-  more_info:
-      <p>D5.14 Facultad de Físicas</p>.
-      <p>Universidad de Sevilla
-      <p>Avda. Reina Mercedes s/n, 41012 Sevilla Spain</p>
+  # more_info:
+      # <p>D5.14 Facultad de Físicas</p>.
+      # <p>Universidad de Sevilla
+      # <p>Avda. Reina Mercedes s/n, 41012 Sevilla Spain</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
